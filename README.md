@@ -32,5 +32,3 @@ Each round adds a new step to the sequence, increasing difficulty progressively.
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
-## Project Structure
