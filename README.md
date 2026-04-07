@@ -1,4 +1,4 @@
-# Simon Game
+# Simon Game - 2021
 
 Classic memory game built with JavaScript where players must repeat an increasingly complex sequence of colors and sounds.
 
